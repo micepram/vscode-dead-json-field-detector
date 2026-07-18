@@ -2,7 +2,6 @@
 
 A VS Code extension that detects **unused ("dead") JSON fields** between frontend and backend codebases. Fields the backend sends but the frontend never reads — and vice versa — are flagged as inline diagnostics with estimated wasted bytes and CO₂ impact.
 
-> TU Delft "Hacking Sustainability"  project for Sustainable Software Engineering.
 
 ---
 
